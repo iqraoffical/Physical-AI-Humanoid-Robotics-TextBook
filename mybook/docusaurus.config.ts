@@ -15,7 +15,7 @@ const config: Config = {
   // 🔥 Your GitHub Pages Settings
   // ------------------------------
   url: 'https://iqraoffical.github.io',
-  baseUrl: '/Physical-AI-Humanoid-Robotics-TextBook/',
+  baseUrl: '/Physical-AI-Humanoid-Robotics-TextBook',
   organizationName: 'iqraoffical',
   projectName: 'Physical-AI-Humanoid-Robotics-TextBook',
 
